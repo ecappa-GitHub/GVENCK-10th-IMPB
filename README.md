@@ -9,7 +9,7 @@ ESALQ/USP - Piracicaba, São Paulo, Brazil.
 
 **Quantitative Forest Genetics and Genomics: from linear mixed models to AI-powered prediction**
 
-*Twenty years of breeding value prediction through increasingly biologically informed models*
+**_Twenty years of breeding value prediction through increasingly biologically informed models_**
 
 This presentation reviews the methodological evolution of breeding value prediction in forest trees over the last two decades, covering topics including:
 
