@@ -1,6 +1,10 @@
 # GVENCK-10th-IMPB
 Repository containing the material used to prepare the invited presentation for the **10th International Meeting on Plant Breeding (IMPB)**.
 
+October 6 to 8, 2026
+
+ESALQ/USP - Piracicaba, São Paulo, Brazil.
+
 ## Presentation
 
 **Quantitative Forest Genetics and Genomics: from linear mixed models to AI-powered prediction**
@@ -30,7 +34,7 @@ GVENCK-10th-IMPB/
 │   Reference papers used in the preparation of the presentation.
 │
 ├── Presentation/
-│   PowerPoint slides, figures, and supplementary presentation material.
+│   PowerPoint slides and supplementary presentation material.
 │
 └── README.md
 ```
